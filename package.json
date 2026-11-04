@@ -1,0 +1,17 @@
+{
+  "name": "sisfis_ruby",
+  "version": "1.0.0",
+  "description": "Sistema de informes de fiscalización (proyecto académico)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Ruby",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {}
+}

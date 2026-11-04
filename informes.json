@@ -1,0 +1,57 @@
+[
+  {
+    "expediente": "202600000000",
+    "empresa": "TRANSPORTES MODELO DEMOSTRATIVO S.A.C.",
+    "placa": "ABC-000",
+    "registro": "00000-060-000000",
+    "supervisor": "Carlos Ejemplo Rivera",
+    "supervisorCargo": "Supervisor ES",
+    "empresaSupervisora": "SUPERVISIÓN TÉCNICA DEMOSTRATIVA E.I.R.L.",
+    "numeroInforme": "0001-2026",
+    "ciudad": "Huánuco",
+    "fecha": "2026-10-25",
+    "destinatario": "Oficina Regional Huánuco - OSINERGMIN",
+    "asunto": "Fiscalización de SEGURIDAD DE MEDIOS DE TRANSPORTE DE COMBUSTIBLE LIQUIDOS Y OPDH, operado por {{empresa}}",
+    "referencia": "Registro de Hidrocarburos de OSINERGMIN N° {{registro}}",
+    "objetivo": "El objetivo de la presente visita de fiscalización es de verificar el cumplimiento de las obligaciones relativas a las condiciones de seguridad del MEDIO DE TRANSPORTE DE COMBUSTIBLE LIQUIDOS Y OPDH de placa de rodaje principal Nº {{placa}}, con Registro de Hidrocarburos N° {{registro}}, operado por {{empresa}}, con Registro Único de Contribuyentes (R.U.C.) N° 20000000001 (en adelante, el Agente Fiscalizado).",
+    "antecedentes": "Con fecha 29 de agosto de 2024, {{empresa}} (en adelante, el Agente Fiscalizado) obtuvo el Registro de Hidrocarburos N.° {{registro}}, para operar la unidad vehicular de placa principal N.° {{placa}} y tracto XYZ-000, en la actividad de transporte de combustibles líquidos y OPDH, con capacidad autorizada de 9000 galones y seis compartimientos, con dirección legal en DIRECCIÓN FICTICIA PARA CAPACITACIÓN, HUÁNUCO, distrito de CHURUBAMBA, provincia y departamento de HUÁNUCO, conforme a la consulta del Registro de Hidrocarburos.\nMediante la Resolución de Autoridad de Fiscalización – Oficina Regional Huánuco N.° 000-2026-OS-GSE/DSR-OR HUÁNUCO, de fecha 10 de septiembre de 2026, se dispuso, en calidad de MANDATO, que {{empresa}} ponga a disposición la unidad de placa principal N.° {{placa}}, con Registro de Hidrocarburos N.° {{registro}}.\nCon fecha 11 de septiembre de 2026, mediante carta dirigida al Especialista Regional en Hidrocarburos de la Oficina Regional Huánuco, {{empresa}} comunicó que la fiscalización de la unidad {{placa}} se realizaría en la Carretera Central Huánuco–Tingo María, Km 23+270, Centro Poblado de Chullqui, distrito de Churubamba, Huánuco.\nCon fecha 18 de septiembre de 2026, el Especialista Regional en Hidrocarburos, Ing. Luis Modelo Fernández, mediante Asignación N.° 00000-2026, asignó la Carta Línea N.° 0000000-0 a la empresa supervisora SUPERVISIÓN TÉCNICA DEMOSTRATIVA E.I.R.L., a fin de efectuar la fiscalización operativa a medios de transporte terrestre de CL, con visita, a la unidad vehicular de placa {{placa}}.\nCon fecha 24 de septiembre de 2026, el Ing. Carlos Ejemplo Rivera realizó la visita de fiscalización al medio de transporte de placa principal N.° {{placa}}, operado por {{empresa}}, y suscribió el Acta de Fiscalización correspondiente al Expediente N.° {{expediente}}.\nCon fecha 25 de octubre de 2026, se elabora el presente informe de fiscalización, correspondiente a la Carta Línea N.° 0000000-0 y al Expediente N.° {{expediente}}, para su evaluación.",
+    "baseLegal": "Ley Nº 26734, Ley de Creación de Osinergmin.\nLey Nº 27699, Ley Complementaria de Fortalecimiento Institucional de Osinergmin.\nDecreto Supremo Nº 054-2001-PCM, que aprueba el Reglamento General del Osinergmin.\nDecreto Supremo N° 006-2026-JUS, que aprueba el Texto Único Ordenado de la Ley N.º 27444, Ley del Procedimiento Administrativo General.\nResolución de Consejo Directivo Nº 150-2024-OS/CD, que aprueba el Reglamento del Registro de Hidrocarburos de Osinergmin. Y la Resolución de Consejo Directivo Nº 56-2026-OS/CD, que modifica el Reglamento del Registro de Hidrocarburos de Osinergmin.\nResolución de Consejo Directivo Nº 208-2020-OS/CD, que aprueba el Reglamento de Fiscalización y Sanción de las actividades energéticas y mineras a cargo de Osinergmin.\nResolución de Consejo Directivo N° 271-2012-OS/CD, que aprueba la Tipificación y Escala de Multas y Sanciones de Hidrocarburos de OSINERGMIN y modificatorias.\nDecreto Supremo N° 026-94-EM y sus modificatorias, que aprueba el Reglamento.\nDecreto Supremo Nº 030-98-EM y sus modificatorias, que aprueba el Reglamento.\nDecreto Supremo Nº 019-99-EM y sus modificatorias, que amplía el plazo para que camiones cisterna de transporte de combustibles no equipados para carga inferior, adecuen sus instalaciones.\nNorma Técnica Peruana, NTP: 350.043-1, Extintores Portátiles.",
+    "descripcionGeneral": "El medio de transporte terrestre de combustibles líquidos y OPDH, operado por {{empresa}}; cuenta con la siguiente información:",
+    "consultaRegistro": "Consulta del Registro de Hidrocarburos de fecha 22 de octubre de 2026: Registro N.° {{registro}}, titular {{empresa}}, placa principal {{placa}}, tracto XYZ-000, capacidad de 9000 galones y seis compartimientos.",
+    "direccion": "La fiscalización realizada al medio de transporte terrestre de combustibles líquidos y OPDH, de placa principal {{placa}}, se llevó a cabo en DIRECCIÓN FICTICIA PARA CAPACITACIÓN, HUÁNUCO, distrito de CHURUBAMBA, provincia y departamento de HUÁNUCO.",
+    "analisis": "Con fecha 24 de septiembre de 2026, siendo las 10:16 horas, se inició la fiscalización a la unidad vehicular de placa principal {{placa}}, operada por {{empresa}}, con Registro de Hidrocarburos N.° {{registro}}. Se constataron las observaciones consignadas en el apartado II «Otros» del acta, conforme al siguiente cuadro:",
+    "fuente": "Acta de Fiscalización de Seguridad de Medios de Transporte de Combustibles Líquidos y OPDH N° {{expediente}}.",
+    "cierreVisita": "Culminada la fiscalización, se suscribió el ACTA DE FISCALIZACIÓN DE SEGURIDAD DE MEDIOS DE TRANSPORTE DE COMBUSTIBLES LÍQUIDOS Y OPDH correspondiente al Expediente N.° {{expediente}}, recibida por el Sr. PEDRO MODELO GARCIA, identificado con DNI N.° 00000000, en calidad de encargado de la unidad vehicular. La diligencia concluyó a las 15:20 horas.",
+    "anexoIntro": "De la visita realizada a la unidad vehicular se recabó la documentación señalada en el Acta de Fiscalización.",
+    "anexos": "ANEXO 1. REPORTE DE CIERRE SFH - CL 0000000-0\nANEXO 2. {{expediente}}-060 - PLAN DE CONTINGENCIAS\nANEXO 3. {{expediente}}-060 - GUÍA DE REMISIÓN\nANEXO 4. {{expediente}}-060 - CAPACITACIÓN DEL CONDUCTOR\nANEXO 5. {{expediente}}-060 - CONSULTA RHO\nANEXO 6. {{expediente}}-060 - CONSULTA RUC\nANEXO 7. {{expediente}}-060 - PÓLIZA DE SEGURO\nANEXO 8. {{expediente}}-060 – CONSULTA EN LINEA RHO\nANEXO 9. {{expediente}}-060 - CERTIFICADO DE INSTALACIÓN GPS\nANEXO 10. {{expediente}}-060 - CERTIFICADO DE VERIFICACIÓN\nANEXO 11. {{expediente}}-060 - TARJETA E INSPECCIÓN TÉCNICA {{placa}}\nANEXO 12. {{expediente}}-060 - TARJETA E INSPECCIÓN TÉCNICA XYZ-000\nVIDEO DE OPERATIVIDAD DE LUCES",
+    "descargos": "",
+    "conclusiones": "{{empresa}}, con Ficha de Registro de Hidrocarburos N.° {{registro}}, NO CUMPLIÓ con lo establecido de las condiciones de seguridad de Medio De Transporte De Combustible Líquidos Y OPDH.",
+    "recomendaciones": "Comunicar a {{empresa}}, con Ficha de Registro de Hidrocarburos N.° {{registro}}, las observaciones consignadas en el apartado II «Otros» del Acta de Fiscalización, a fin de que acredite su subsanación respecto de la unidad vehicular de placa principal {{placa}}.\nAsimismo, se otorgue el plazo establecido de 30 días calendario para que la empresa pueda subsanar los incumplimientos de orden técnico y que no constituyen un alto riesgo para la seguridad (TIPO B), bajo apercibimiento de iniciar Procedimiento Administrativo Sancionador – PAS.",
+    "firma1Nombre": "Elena Referencia Torres",
+    "firma1Documento": "DNI N° 00000000",
+    "firma1Cargo": "Representante Legal",
+    "firma1Empresa": "SUPERVISIÓN TÉCNICA DEMOSTRATIVA E.I.R.L.",
+    "firma2Nombre": "Carlos Ejemplo Rivera",
+    "firma2Documento": "CIP N° 000000",
+    "firma2Cargo": "Fiscalizador",
+    "firma2Empresa": "SUPERVISIÓN TÉCNICA DEMOSTRATIVA E.I.R.L.",
+    "tieneDescargo": false,
+    "hechos": [
+      {
+        "numero": "OTRAS OBSERVACIONES",
+        "incumplimiento": "Cada compartimiento del tanque de cargamento deberá ser provisto con venteos normales de presión y vacío, cada uno teniendo un área de sección transversal libre neta de 0.44 pulg2 (284 mm2). Venteos de presión deberán ser fijados para abrir en una presión manométrica de no más de 1 psi (6.9 kPa). Venteos de vacío deberán ser fijados para abrir en 6 oz (170 g). Donde un compartimiento del tanque de cargamento es diseñado para ser cargado o descargado con la cubierta del domo cerrada, el venteo o venteos descritos en 5.3.12.2 o venteos adicionales deberán limitar el vacío a 1 psi (6.9 kPa) y la presión del tanque a una presión manométrica de 3 psi (20.7 kPa) basada en la tasa máxima de transferencia de producto.",
+        "baseLegal": "5.3.12.2 y 5.3.12.4 del Estándar NFPA 385 Estándar para vehículos tanque para líquidos inflamables y combustibles. Edición 2007, en concordancia con la cuarta disposición transitoria de Texto Único Ordenado de la Ley Orgánica de Hidrocarburos, aprobada mediante Decreto Supremo N° 042-2005-EM.",
+        "descripcion": "Tipo B: Durante la visita de fiscalización se verificó que las válvulas de presión y vacío de los compartimientos N.° 1, 2, 3, 4, 5 y 6 no especifican que limiten el vacío a 1 PSI (6.9 kPa) y la presión manométrica a 3 PSI (20.7 kPa).",
+        "medio": "Foto N.º 23, 30, 39, 47, 54 y 61."
+      },
+      {
+        "numero": "OTRAS OBSERVACIONES",
+        "incumplimiento": "**Venteo de Emergencia para Exposición a Incendio:**\nCada compartimiento del tanque de cargamento deberá ser equipado con uno o más venteos accionados por presión fijados para abrir en una presión manométrica de no menos de 3 psi (20.7 kPa) y cerrar cuando las caídas de presión debajo de 3 psi (20.7 kPa) del punto de seteo.",
+        "baseLegal": "5.3.13 del Estándar NFPA 385 Estándar para vehículos tanque para líquidos inflamables y combustibles. Edición 2007, en concordancia con la cuarta disposición transitoria de Texto Único Ordenado de la Ley Orgánica de Hidrocarburos, aprobada mediante Decreto Supremo N° 042-2005-EM.",
+        "descripcion": "Tipo B: Durante la visita de fiscalización se verificó que el Agente Fiscalizado deberá acreditar que los compartimientos N.° 1, 2, 3, 4 y 6 cuentan con venteos de emergencia para exposición a incendios, calibrados para abrir a no menos de 3 PSI y cerrar por debajo de 3 PSI del punto de venteo.",
+        "medio": "Foto N.º 22, 29, 38, 46, 53 y 60."
+      }
+    ],
+    "id": 1793750419958
+  }
+]
