@@ -12,7 +12,7 @@ const CAMPOS = [
   'expediente', 'empresa', 'placa', 'registro', 'supervisor',
   'supervisorCargo', 'empresaSupervisora', 'numeroInforme', 'ciudad', 'fecha',
   'destinatario', 'copias', 'asunto', 'referencia',
-  'objective', 'baseLegal',
+  'objetivo', 'baseLegal',
   'descripcionGeneral', 'imagenTitulo', 'consultaRegistro', 'direccion',
   'analisis', 'fuente', 'cierreVisita',
   'anexoIntro', 'anexos',
